@@ -1,12 +1,8 @@
 ### Hello there 👋
 
-<!--
-**veggiepilot/veggiepilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 NOW
 
-- 👨🏿‍💻 Transitioning careers from the edducation sector to Full-Stack Development
+- 👨🏿‍💻 Transitioning careers from the education sector to Full-Stack Development
 - 🔭 I’m currently working on a counselor directory
 
 BIO
