@@ -7,7 +7,7 @@
 NOW
 
 - 👨🏿‍💻 Transitioning careers from the edducation sector to Full-Stack Development
-- 🔭 I’m currently working on a counselor directory [Adventist Counselors](adventistcounselors.com)
+- 🔭 I’m currently working on a counselor directory [Adventist Counselors](https://adventistcounselors.com)
 
 BIO
 - 🌱 Learning everything about the MERN Stack
