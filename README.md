@@ -2,9 +2,6 @@
 
 ## Full Stack Software Engineer
 
-### A bit about me:
-
-
 NOW
 
 - 👨🏿‍💻 Transitioning careers from the education sector to Full-Stack Development
