@@ -8,7 +8,7 @@ NOW
 - 🔭 I’m currently working on a counselor directory
 
 BIO
-- Nationality: 🇿🇼/🇺🇸
+- Nationality: 🇿🇼🇺🇸
 - Personal Interests: ⚽️ 👨🏿‍💻 🛫
 - 🌱 Learning everything about the MERN Stack
 - 👯 I’m looking to collaborate on projects that solve a problem I am passionate about
