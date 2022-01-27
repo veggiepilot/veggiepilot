@@ -1,11 +1,18 @@
 ### Hello there 👋
 
+## Full Stack Software Engineer
+
+### A bit about me:
+
+
 NOW
 
 - 👨🏿‍💻 Transitioning careers from the education sector to Full-Stack Development
 - 🔭 I’m currently working on a counselor directory
 
 BIO
+- Nationality: 🇿🇼/🇺🇸
+- Personal Interests: ⚽️ 👨🏿‍💻 🛫
 - 🌱 Learning everything about the MERN Stack
 - 👯 I’m looking to collaborate on projects that solve a problem I am passionate about
 - 🤔 I’m looking for help with finding remote work
