@@ -18,7 +18,3 @@ BIO
 - ⚡ Fun fact: I'm a third cuture individual
 
 
-[![Johannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=veggiepilot)](https://github.com/veggiepilot/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggiepilot&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
