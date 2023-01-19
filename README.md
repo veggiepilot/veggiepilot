@@ -4,17 +4,14 @@
 
 NOW
 
-- 👨🏿‍💻 Transitioning careers from the education sector to Full-Stack Development
-- 🔭 I’m currently working on a counselor directory
+- 👨🏿‍💻 Fullstack Developer at CampLife,LLC
+- 🔭 Working on a counselor directory
 
 BIO
 - Nationality: 🇿🇼🇺🇸
 - Personal Interests: ⚽️ 👨🏿‍💻 🛫
-- 🌱 Learning everything about the MERN Stack
-- 👯 I’m looking to collaborate on projects that solve a problem I am passionate about
-- 🤔 I’m looking for help with finding remote work
-- 💬 Ask me about the casino economy and the Zimbabwean 💲100T bank note
-- 📫 How to reach me: johanneschitura@gmail.com
+- 🌱 Mongo, Express, React, Node, Java, Vue, Groovy, Drools
+- 📫 johanneschitura@gmail.com
 - ⚡ Fun fact: I'm a third cuture individual
 
 
