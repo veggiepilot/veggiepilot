@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-## Full Stack Software Engineer
+## Full Stack Software Developer
 
 NOW
 
